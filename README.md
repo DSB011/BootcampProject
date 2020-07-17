@@ -1,12 +1,13 @@
-# BootcampProject
-First analytics bootcamp project!
+# Unit 7 - Project One
 
-Baby Name Project doc
-https://docs.google.com/document/d/1WZ-FunS3fZL7rhPLik-RDS1sVo9KZFBcFx92nXG_YFc/edit?usp=sharing
+## Overview
 
-Data Sources sheet
-https://docs.google.com/spreadsheets/d/1z0J9QK4CWIPsMbrPaCzXH9XqlB1osa1LGFHJwO-ZhO4/edit?usp=sharing
+### Slide Shows
 
-Primary data source Kaggle US Baby Names
-https://www.kaggle.com/kaggle/us-baby-names/data?select=StateNames.csv
+* [Project 1](https://drive.google.com/open?id=1D97nYhBr-jFnenSEXbJOFRGOynW2cPqI_wHe8d3mFUw)
 
+- - -
+
+### Copyright
+
+Trilogy Education Services © 2018. All Rights Reserved.
