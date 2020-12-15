@@ -131,14 +131,14 @@ reached a peak in the year 1990.
 
 # Observation 6: 
 * Looking at the pattern, average female names length are longer than
-males names length with a peak at 1990.
+males names length with a peak at 1990.<br>
 
 We also removed the Mean and standard Deviation on the Name Length and we could find
 out that there was no much variation in the Mean and the Standard Deviation.
-Select national events that impacted “new names”:
+Select national events that impacted “new names”:<br>
 
 ● Turn-of-the-century immigration boom: Circa 1910, one in four American workers
-were foreign-born (according to the U.S. Bureau of Immigration).<b>
+were foreign-born (according to the U.S. Bureau of Immigration).<br>
 ● The Great Depression and quota system hurt immigration (thus slowing “new
 names”). The National Origins Act’s quota system, which took effect in 1929,
 diminished the wave of immigration from Southern and Eastern Europe. The Great
