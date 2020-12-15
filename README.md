@@ -22,27 +22,27 @@ Matt Debnar
 # Outline Questions
 ● Q1 Are Names Getting Longer or Shorter? More or less prevalent by region?
     * Name Length vs Popularity over Time - per year, per gender then per decade, then
-per region
+per region<br>
 ● Q2 How many names are used by both genders? More or less over time? More
 or less prevalent by region in total? 
-    * Child Gender vs Name Percent Match
+    * Child Gender vs Name Percent Match<br>
 ● Q3 How many new names are added each year? More or less prevalent by
-region? 
+region? <br>
 
 # Datasets Used
 ● US Baby Names
-https://www.kaggle.com/kaggle/us-baby-names/data?select=StateNames.csv
+https://www.kaggle.com/kaggle/us-baby-names/data?select=StateNames.csv <br>
 ● Popular Baby Names in NYC: Popular Baby Names
   * Behind the Name API (Gender, Usage):
-https://www.behindthename.com/api/help.php
+https://www.behindthename.com/api/help.php <br>
 ● To reproduce for “How many names are used by both genders?”
 https://babynames1000.com/gender.php?y=2016
-Github Link
+Github Link <br>
 ● Presentation
 https://github.com/bbixby/BootcampProject/blob/master/US%20Baby%20Names%20
-Presentation%20Fixed.ipynb
+Presentation%20Fixed.ipynb <br>
 ● Repo:
-https://github.com/bbixby/BootcampProject
+https://github.com/bbixby/BootcampProject <br>
 
 
 # Summary
@@ -51,14 +51,14 @@ https://github.com/bbixby/BootcampProject
 of WWII in 1945 and peaked just before 1960
 
 # Takeaways
-● Between 1910 and 2014, the number of names increased over time.
+● Between 1910 and 2014, the number of names increased over time.<br>
 ● The first sharp incline in baby names occurs in the mid-1940s (from 250,000 to just
-under 350,000), which correlates to WWII ending in 1945.
+under 350,000), which correlates to WWII ending in 1945.<br>
 ● These births will mark the beginning of the largest generation in the U.S. (until the
-millennials), the Baby Boomers.
+millennials), the Baby Boomers.<br>
 ● The sharp incline continues and peaks in the late-fifties and early sixties (circa 1957
 - 1962), the period yielding the greatest volume of names to date -- these names
-signify the end of the Baby Boomers.
+signify the end of the Baby Boomers
 
 # Names per Decade
 * Observation: baby boom confirmed in 1950s then slight bounce back
@@ -69,29 +69,29 @@ number of boys' names outpaced girls' consistently thru 2014
 
 # Takeaways
 ● The trends for male and female baby names are parallel to one another, but in the
-latter half of the century, they are not equal.
+latter half of the century, they are not equal.<br>
 ● There are significantly more male baby names beginning in the early 1970s -- a
-trend that remains the same through 2014.
+trend that remains the same through 2014.<br>
 ● One reason for the increase in male baby names is the rising trend in unisex names,
-many of which are considered “male.”
+many of which are considered “male.”<br>
 ● For example, the name “Madison” was historically considered a male name, but after
 the 1984 movie “Splash” (in which the female protagonist names herself Madison
 after the New York City street), there was a marked rise in U.S. females named
 Madison. “Madison” was ranked second for girls in the United States by 2001. This
 rise from obscurity to prominence in only 18 years represents an unprecedented
-550,000 percent increase in usage.
+550,000 percent increase in usage.<br>
 ● The name “Taylor” is another example of this trend of a traditionally male name that
-has been co-opted as feminine in modern times.
+has been co-opted as feminine in modern times.<br>
 
 * Total Names per Region
 * Names per Region per Year
-# Observation: 
+# Observation 1: 
 * South consistently registers the most names. The Midwest and
 * Northeast counts peaked just before 1960 then fell off. The West gained in name
 counts starting in 1940 then increased again in 1975 to gain second place
 * Top Name Overall per Gender
 
-# Observation: 
+# Observation 2: 
 Q1. Most of the top names are Male. Given more Female names
 registered than Male suggests more variability in Female names than Male.
 
@@ -100,15 +100,15 @@ Q2:The Total Unique Names in Both Gender
 
 Q3. The Unique Counts of Names Progression Over The Century per Gender
 
-# Observation: 
+# Observation 3: 
 * The name uniqueness has a significant increase with a new influx of immigrants from the 1990s onward.
 * The Total Unique Names in Each State
 
-# Observation: 
+# Observation 4: 
 * States CA and NY have the highest number of unique names across all states
 
 # Uniqueness
-● Overall, there is an increase in “new” baby names overall, and particularly from 1970
+Overall, there is an increase in “new” baby names overall, and particularly from 1970
 onward.
 ○ One reason for this is U.S. population growth in general (Baby Boomers…
 now millennials). There are more names, therefore, more opportunities for
@@ -124,12 +124,12 @@ Observation: most Boys' names peak around 1960; Joseph and Michael
 remain popular. Most Girls names also peak in 1950 or 1960, Elizabeth
 and Jennifer remain popular
 
-# Observation: 
+# Observation 5: 
 * The baby names length started increasing from the year 1960 and
 reached a peak in the year 1990.
 
 
-# Observation: 
+# Observation 6: 
 * Looking at the pattern, average female names length are longer than
 males names length with a peak at 1990.
 
@@ -138,27 +138,27 @@ out that there was no much variation in the Mean and the Standard Deviation.
 Select national events that impacted “new names”:
 
 ● Turn-of-the-century immigration boom: Circa 1910, one in four American workers
-were foreign-born (according to the U.S. Bureau of Immigration).
+were foreign-born (according to the U.S. Bureau of Immigration).<b>
 ● The Great Depression and quota system hurt immigration (thus slowing “new
 names”). The National Origins Act’s quota system, which took effect in 1929,
 diminished the wave of immigration from Southern and Eastern Europe. The Great
 Depression and WWII further impeded immigration into the U.S., so “new names”
-slumped during this time.
+slumped during this time.<br>
 ● The United States’ percentage of foreign-born citizens reached a low of 4.7% in
-1970.
+1970.<br>
 ● After 1970, when Mexican, Chinese, Filipino and Indian immigration saw a massive
-rise, the incidence of “new names” also increased, per the data.
+rise, the incidence of “new names” also increased, per the data.<br>
 ● “New names” in the U.S. are likely coming from the country’s newest immigrant
 groups, from China or India. Those countries surpassed Mexico as countries of
-origin for immigrants arriving in the U.S. in 2013.
-Conclusions
-Baby names are a window into looking at cultural trends in the U.S.
-● The diversity of baby names has increased over the last 100 years.
+origin for immigrants arriving in the U.S. in 2013.<br>
+   
+# Conclusions
+Baby names are a window into looking at cultural trends in the U.S.<br>
+● The diversity of baby names has increased over the last 100 years.<br>
 ● There is a greater variety of female names than male names. However, male
-names have been consistently more popular over the last 50 years.
+names have been consistently more popular over the last 50 years.<br>
 ● The proliferation of baby names may be attributable to expanded immigration
-policies in the U.S.
-- - -
+policies in the U.S.<br>
 
 ## Tech Environment Used
 Pandas, Python, Matplotlib, Jupyter-Notebook, GitHub, Zoom, Slack 
